@@ -5,3 +5,4 @@ Velvet-CLI is a collection of CLI tools I write in various different computer la
 ### Velvet-CLI-Tools:
 - Auto Sprite-Sheet spitter (Bash) - splites your sprite-sheet into individual images.
 - Markdown to Shell Script (Bash) - converts code blocks in md into shell script.
+- Markdown to Shell Script (Python) - converts code blocks in md into shell script.
